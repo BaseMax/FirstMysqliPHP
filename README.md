@@ -12,6 +12,7 @@ This is also suitable for people who forget to work with mysqli class.
 
 ## Features
 
+- Create table, add new field, set Indexs
 - Insert
 - Delete
 - Select rows
