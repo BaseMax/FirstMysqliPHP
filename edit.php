@@ -42,7 +42,7 @@ if($result->num_rows > 0) {
 		<b>Address:</b>
 		<input type="text" name="stu_address" value="<?= $row["stu_address"] ?>">
 		<br>
-		<button name="edit">Insert</button>
+		<button name="edit">Edit</button>
 	</form>
 	<?php
 	}
