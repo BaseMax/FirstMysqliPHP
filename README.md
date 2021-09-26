@@ -1,5 +1,7 @@
 # First MySQLi PHP
 
+Connect and work with **MySQL/MariaDB** database through **MySQLi** in **PHP**.
+
 > The above exercises are designed for students.
 
 This is an introductory project, If you need a simple and straightforward example that takes you straight to the point, you can check out these examples.
